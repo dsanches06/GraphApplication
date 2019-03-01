@@ -1,0 +1,81 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 23, 2016, 6:22:20 PM
+    Author     : brunomnsilva
+*/
+
+#graphView{
+    -fx-background-image: url("background.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+    -fx-font: 16px "Serif";
+}
+
+#menu-bar {
+    -fx-background-color: derive(#1d1d1d,20%);
+}
+
+#context-menu {
+    -fx-background-color: derive(#1d1d1d,50%);
+}
+
+#menu-bar .label {
+    -fx-font: 16px "Serif";
+    -fx-text-fill: white;
+    -fx-opacity: 0.9;
+}
+
+#menu .left-container {
+    -fx-background-color: black;
+}
+
+#menu-item {
+     -fx-background-color: #222;
+}
+
+#menu-item:hover {
+    -fx-background-color: #3399B9;
+}
+
+#menu-item:pressed {
+    -fx-background-color: #004C65;
+}
+
+#context-menu {
+    -fx-background-color: orange;
+}
+
+.titled-address .label {
+    -fx-font-size: 13px;
+    -fx-font-family: "Arial Black";
+}
+
+.bordered-titled-title {
+    -fx-background-color: white;
+    -fx-translate-y: -7;
+    -fx-text-alignment: center;
+}
+
+.bordered-titled-border {
+    -fx-content-display: top;
+    -fx-border-insets: 15 10 10 10;
+    -fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-width: 1;
+}
+
+.bordered-titled-content {
+    -fx-padding: 26 10 10 10;
+}
+
+.textfield{
+    -fx-border-width: 1; 
+    -fx-border-radius: 2 ;
+    -fx-border-color : black; 
+}
+
