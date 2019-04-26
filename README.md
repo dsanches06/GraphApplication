@@ -27,6 +27,10 @@ funcionais e anteriores.
 a sua aplicabilidade a cada requisito funcional da competência do(s) aluno(s) programador(es).
 O projeto será desenvolvido  com interface gráfica em JavaFX.
 
+### Ambiente Tecnologico
+Java SE, Netbeans, Padrões de Software, JavaFX
+
+## Galeria de Imagens
 ![](/graph_application.jpg)
 ![](/graph_estatistica.png)
 
