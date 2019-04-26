@@ -30,7 +30,7 @@ O projeto será desenvolvido  com interface gráfica em JavaFX.
 ### Ambiente Tecnologico
 Java SE, Netbeans, Padrões de Software, JavaFX
 
-## Galeria de Imagens
+#### Galeria de Imagens
 ![](/graph_application.jpg)
 ![](/graph_estatistica.png)
 
